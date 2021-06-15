@@ -2,6 +2,8 @@
 power robots and drones from nothing but the atomsphere
 
 
+carbon-dioxide powering a generator from mars atomsphere (by extracting oxygen to combust to power a generator to make electricty)
+![s1]https://raw.githubusercontent.com/c4pt000/robot-power/main/dwyTbMC.png
 ```
 https://i.imgur.com/dwyTbMC.png
  to also power a heavy bot like "Fedor"
