@@ -21,3 +21,5 @@ to burn the oxygen to power a generator the size of a yellow pages
  think military application and or space construction
  and or drone power
  ```
+10-05-2021
+https://github.com/c4pt000/better-chinese-rover-burn-free-O2
