@@ -1,6 +1,7 @@
 # robot-and-drone-power
 
 # https://www.agilityrobotics.com/#cover
+# https://github.com/c4pt000/electric-car-charging-redesign
 
 power robots and drones from nothing but the atomsphere
 
