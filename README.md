@@ -67,6 +67,16 @@ for smooth operation in VLEO.
 
 
 
+
+
+# ALSO the reverse of using AIR use CO2 (carbon dioxide and extract oxygen molecules directly from CO2 to burn the O2 molecules)
+
+
+
+
+
+
+
 # https://www.agilityrobotics.com/#cover
 # https://github.com/c4pt000/electric-car-charging-redesign
 
